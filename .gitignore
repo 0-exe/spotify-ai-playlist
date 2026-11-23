@@ -1,0 +1,15 @@
+.env
+*.pyc
+__pycache__/
+.venv/
+venv/
+data/
+.spotify_cache*
+*.db
+*.sqlite
+.pytest_cache/
+htmlcov/
+.coverage
+dist/
+build/
+*.egg-info/
